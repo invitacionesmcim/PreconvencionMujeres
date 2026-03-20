@@ -20,7 +20,7 @@ const vAltoReal= window.innerHeight;
   //RSantificacion
   // const URLbase ="https://invitacionesmcim.github.io/AsistenciaSantificacion";
     //RSantificacion
-  const URLbase ="https://invitacionesmcim.github.io/AsistenciaLideresMCIM";
+  const URLbase ="https://invitacionesmcim.github.io/PreconvencionMujeres";
   
 
 
