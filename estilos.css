@@ -136,7 +136,7 @@ button {
     top: 5%;
 
     text-align: center;
-    color: white;
+    color: var(--color-oscuro);
     font-family: var(--font-montserrat);
 
     font-size: 22px;

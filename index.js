@@ -15,10 +15,6 @@ const vAltoReal= window.innerHeight;
   let primerNombre = '';
   const p = 20;
 
-  //Local
-  // const URLbase ="http://192.168.1.13:5500"; //Desarrollo
-  //RSantificacion
-  // const URLbase ="https://invitacionesmcim.github.io/AsistenciaSantificacion";
     //RSantificacion
   const URLbase ="https://invitacionesmcim.github.io/PreconvencionMujeres";
   

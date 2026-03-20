@@ -47,9 +47,9 @@ async function Ingresar(lugar) {
       if (data.registradoBodega) {
         SI.innerHTML = "<p>Upss... <br> Parece que " +   nombrePersona + " ya ingresó a EF. <br> ❌ </p>";
       } else {
-        if(data.genero === "FEMENINO"){SI.innerHTML = "<p> Bienvenida " + nombrePersona + "<br> ✅ </p>";} 
-        else if(data.genero === "MASCULINO"){SI.innerHTML = "<p> Bienvenido " + nombrePersona + "<br> ✅ </p>";} 
-        else{SI.innerHTML = "<p> Bienvenido " + nombrePersona + "<br> ✅ </p>";} 
+        if(data.genero === "FEMENINO"){SI.innerHTML = "<p> Bienvenida " + nombrePersona + "<br> 🌷 </p>";} 
+        else if(data.genero === "MASCULINO"){SI.innerHTML = "<p> Bienvenida " + nombrePersona + "<br> 🌷 </p>";} 
+        else{SI.innerHTML = "<p> Bienvenida " + nombrePersona + "<br> 🌷 </p>";} 
       }
     }
 
@@ -60,9 +60,9 @@ async function Ingresar(lugar) {
           nombrePersona +
           " ya ingresó a la iglesia. <br> ❌ </p>";
       } else {
-        if(data.genero === "FEMENINO"){SI.innerHTML = "<p> Bienvenida " + nombrePersona + "<br> ✅ </p>";} 
-        else if(data.genero === "MASCULINO"){SI.innerHTML = "<p> Bienvenido " + nombrePersona + "<br> ✅ </p>";} 
-        else{SI.innerHTML = "<p> Bienvenido " + nombrePersona + "<br> ✅ </p>";} 
+        if(data.genero === "FEMENINO"){SI.innerHTML = "<p> Bienvenida " + nombrePersona + "<br> 🌷 </p>";} 
+        else if(data.genero === "MASCULINO"){SI.innerHTML = "<p> Bienvenida " + nombrePersona + "<br> 🌷 </p>";} 
+        else{SI.innerHTML = "<p> Bienvenida " + nombrePersona + "<br> 🌷 </p>";} 
       }
     }
   } else {
